@@ -1,5 +1,5 @@
 package com.icehockey.dao;
 
-public class yyy {
+public class uuu {
 
 }
